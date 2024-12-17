@@ -1,0 +1,12 @@
+name: Frapp
+desc: Video Game Giveaways at the palm of your hands
+site: https://github.com/Brianali-codes/Frapp
+tags:
+  - react-native
+  - development
+  - javascript
+  - react-native-paper
+  - expo
+upforgrabs:
+  name: up for grabs
+  link: https://github.com/username/project/labels/up%20for%20grabs
