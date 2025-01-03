@@ -1,10 +1,10 @@
 name: Frapp
-desc: Video Game Giveaways at the palm of your hands
+desc: Frapp is a React Native app that provides video game giveaways and free games. Built with Expo and React Native Paper.
 site: https://github.com/Brianali-codes/Frapp
 tags:
-  - react-native
+  - React-Native
   - development
-  - javascript
+  - JavaScript
   - react-native-paper
   - expo
 upforgrabs:
